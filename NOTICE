@@ -1,0 +1,19 @@
+Ictus
+Copyright 2006 Douglas M. Heyer
+
+Licensed under the Apache License, Version 2.0. See the LICENSE file, or
+http://www.apache.org/licenses/LICENSE-2.0
+
+This product bundles two third-party works, both unmodified, both travelling
+inside the jar:
+
+  Gson - Apache License 2.0.
+      The published Gson artifact contains no NOTICE file, so there is none to
+      reproduce here.
+
+  Bravura - SIL Open Font License 1.1.
+      Copyright 2019, Steinberg Media Technologies GmbH, with Reserved Font
+      Name "Bravura".
+
+Their full licence texts ship with the converter in its licenses/ folder, and
+are in this repository at src/dist/licenses/.
